@@ -1,0 +1,15 @@
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\bin\Debug\net6.0\VerificationWork.exe
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\bin\Debug\net6.0\VerificationWork.deps.json
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\bin\Debug\net6.0\VerificationWork.runtimeconfig.json
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\bin\Debug\net6.0\VerificationWork.dll
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\bin\Debug\net6.0\VerificationWork.pdb
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\obj\Debug\net6.0\VerificationWork.csproj.AssemblyReference.cache
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\obj\Debug\net6.0\VerificationWork.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\obj\Debug\net6.0\VerificationWork.AssemblyInfoInputs.cache
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\obj\Debug\net6.0\VerificationWork.AssemblyInfo.cs
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\obj\Debug\net6.0\VerificationWork.csproj.CoreCompileInputs.cache
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\obj\Debug\net6.0\VerificationWork.dll
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\obj\Debug\net6.0\refint\VerificationWork.dll
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\obj\Debug\net6.0\VerificationWork.pdb
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\obj\Debug\net6.0\VerificationWork.genruntimeconfig.cache
+G:\GeekBrains\TheFirstBlock.FinalVerificationWork\VerificationWork\obj\Debug\net6.0\ref\VerificationWork.dll
